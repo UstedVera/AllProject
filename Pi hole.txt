@@ -1,0 +1,8 @@
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+
+https://mauriciolopez.ml/listas-de-bloqueo-ad-lists-para-pi-hole/
+
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews/hosts
+
+Para copia el txt de los bloqueos, tener en cuenta que la cuenta de github debe estar abierta
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
