@@ -25,7 +25,7 @@ ff00::0 ip6-mcastprefix
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
-1.1.1.1 1.1.1.1
+0.0.0.0 0.0.0.0
 
 # Custom host records are listed here.
 
@@ -37,5 +37,5 @@ ff02::3 ip6-allhosts
 # Title: Hosts contributed by Andres Felipe
 # http://
 
-1.1.1.1 www.semana.com
-1.1.1.1 www.facebook.com
+0.0.0.0 www.semana.com
+0.0.0.0 www.facebook.com
