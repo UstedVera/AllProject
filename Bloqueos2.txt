@@ -37,5 +37,5 @@ ff02::3 ip6-allhosts
 # Title: Hosts contributed by Andres Felipe
 # http://
 
-0.0.0.0 semana.com
-0.0.0.0 www.facebook.com
+1.1.1.1 www.semana.com
+1.1.1.1 www.facebook.com
